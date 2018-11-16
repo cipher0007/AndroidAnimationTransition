@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="drawable_array">
+        <item>@drawable/ic_pros_and_cons</item>
+        <item>@drawable/ic_video_player</item>
+        <item>@drawable/ic_call</item>
+        <item>@drawable/ic_camera</item>
+
+
+    </array>
+</resources>
